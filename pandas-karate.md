@@ -243,3 +243,13 @@ df.sum()
 This is the part where you get to really kick the tires.  I'm going to throw a dataset similar to the one that we've been working with and try to throw some questions at you.
 
 Check out the `04_exercise` notebook for the exercise.
+
+---
+
+# Finding This Presentation Later
+
+This presentation is hosted on GitHub:  [https://github.com/bstempi/sjpwdg-pandas-presentation](https://github.com/bstempi/sjpwdg-pandas-presentation)
+
+You can find me at [http://brianstempin.com](http://brianstempin.com)
+
+Thanks!
