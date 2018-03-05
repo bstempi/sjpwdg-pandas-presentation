@@ -22,7 +22,7 @@ From their website:
 
 # But Seriously
 
-You can do some really cool stuff with 1, 2, and 3 dimentional data.  Most of this presentation will focus on 2d (table) data.
+You can do some really cool stuff with 1, 2, and 3 dimensional data.  Most of this presentation will focus on 2d (table) data.
 
 ---
 
@@ -122,7 +122,7 @@ stats_per_city = df.groupby('City').sum()
 stats_per_city['Violent Crimes Per 1000'] = 1000 * stats_per_city['Violent Crimes'] / stats_per_city['Population']
 ```
 
-That's...odly satisfying.
+That's...oddly satisfying.
 
 ---
 
